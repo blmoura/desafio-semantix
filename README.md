@@ -30,6 +30,8 @@ Todos os dados de retorno da API, vao ser salvos no MongoDB.
 
 Para executar o script, basta executar o comando **npm run dev.**
 
+A documentacao SWAGGER esta no endpoint **http://localhost:3333/documentation**
+
 ### Descricao de funcionalidade
 
 Pra esse desafio, foi criada uma API, onde é possivel realizar a criacao de uma pasta no GoFile e os dados da pasta são salvos na Collection Folders dentro do MongoDb.
